@@ -143,7 +143,11 @@ This evaluation demonstrates the value of combining:
 
 This dual‑mode approach ensures intuitive insights are validated through reproducible testing, producing reliable behavioural analysis without relying on subjective interpretation.
 
----
+## Related Work
+
+This project is part of a series of small, focused evaluation samples demonstrating different aspects of LLM behaviour. Other evaluations include:
+
+- Hallucination under missing information
 
 ## License
 
